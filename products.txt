@@ -1,0 +1,2 @@
+Shirt, 10.5
+Gloves, 8.0
